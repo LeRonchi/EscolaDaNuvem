@@ -1,0 +1,15 @@
+[INFO] - 2025-11-09 15:58:00 - Iniciando o processo de treinamento.
+[INFO] - 2025-11-09 15:58:01 - Carregando dataset...
+Epoch 1/10 - loss: 0.89 - tempo de execução: 15.2s
+Epoch 2/10 - loss: 0.75 - Execution Time: 14.8s
+Epoch 3/10 - loss: 0.62 - tempo de execucao: 15.1
+[WARN] - 2025-11-09 15:59:00 - Perda estagnada.
+Epoch 4/10 - loss: 0.61 - execution time: 14.9s
+Epoch 5/10 - loss: 0.55 - tempo de execução: 15.3s
+[ERROR] - 2025-11-09 16:00:00 - GPU OOM. Reiniciando...
+Epoch 6/10 - loss: 0.80 - Execution Time: 18.5s
+Epoch 7/10 - loss: 0.72 - tempo de execução: 15.0s
+Epoch 8/10 - loss: 0.65 - Execution Time: ERROR_s (Isto deve falhar)
+Epoch 9/10 - loss: 0.61 - tempo de execução: 14.7s
+Epoch 10/10 - loss: 0.59 - Execution Time: 15.1s
+[INFO] - 2025-11-09 16:01:00 - Treinamento concluído.
